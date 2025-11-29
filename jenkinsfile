@@ -1,12 +1,7 @@
 pipeline 
 { 
- agent any 
- tools 
- { 
-stage any
- } 
-
- stages 
+agent any
+stages 
  { 
 stage('Welcome Stage') 
 { 
