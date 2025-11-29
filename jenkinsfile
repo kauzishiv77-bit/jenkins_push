@@ -3,7 +3,7 @@ pipeline
  agent any 
  tools 
  { 
-stage 
+stage any
  } 
 
  stages 
